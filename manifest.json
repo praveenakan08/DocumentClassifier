@@ -1,0 +1,11 @@
+{
+    "name": "Extension!!",
+    "version": "1.1.0",
+    "description": "nothing really",
+    "manifest_version": 3,
+    "author": "Mansi, Praveena",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Extension yo!"
+    }
+}
